@@ -27,7 +27,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
-- Pull items that meet DoD and have clear acceptance criteria
+- Pull items that meet the **Definition of Ready (DoR)** — see [Definition of Ready and Done](octoacme-definition-of-ready-and-done.md) for the full checklist
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
@@ -39,5 +39,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Ready (DoR) reviewed and applied to top backlog items — see [Definition of Ready and Done](octoacme-definition-of-ready-and-done.md)
+- [ ] Definition of Done (DoD) documented and agreed by the team
 - [ ] Initial test plan / QA approach drafted

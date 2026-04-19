@@ -20,6 +20,13 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+Cross-functional projects may also involve the following roles. See [Roles & Personas](octoacme-roles-and-personas.md) for full definitions.
+- Scrum Master: facilitates agile ceremonies, removes impediments, coaches the team.
+- UX Designer: translates requirements into user-centered designs and prototypes.
+- DevOps Engineer: manages CI/CD pipelines, infrastructure, and system reliability.
+- Business Analyst: bridges business needs and technical solutions through requirements gathering.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
