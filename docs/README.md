@@ -28,3 +28,4 @@ Quality assurance is built into every phase rather than treated as a final gate.
 - [Release and Deployment](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
+- [Definition of Ready and Done](octoacme-definition-of-ready-and-done.md)

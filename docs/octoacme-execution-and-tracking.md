@@ -10,11 +10,13 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
+- Items move to **Done** only when the **Definition of Done (DoD)** is fully met — see [Definition of Ready and Done](octoacme-definition-of-ready-and-done.md)
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - Verify DoD checklist is complete before merging
 
 ## Quality & Testing
 - Unit tests for new logic
@@ -36,5 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
+- [ ] Definition of Done (DoD) applied before marking items complete — see [Definition of Ready and Done](octoacme-definition-of-ready-and-done.md)
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly

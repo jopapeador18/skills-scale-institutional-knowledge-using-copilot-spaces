@@ -75,6 +75,73 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates the agile process, removes impediments, and coaches the team on agile best practices.
+
+### Responsibilities
+- Facilitate daily standups, sprint planning, reviews, and retrospectives
+- Remove obstacles and help resolve blockers for the team
+- Foster continuous improvement through feedback loops
+- Shield the team from interruptions and distractions
+
+### Interactions
+- Works closely with Developers and Project Managers to maintain flow
+- Partners with Product Managers to clarify backlog priorities
+
+---
+
+## UX Designer
+
+### Role Summary
+Advances the design of user experiences and interfaces aligned with user needs and business objectives.
+
+### Responsibilities
+- Collaborate on requirements to translate needs into designs
+- Create wireframes, prototypes, and design specs
+- Conduct usability testing and gather feedback
+- Communicate design intent to Developers
+
+### Interactions
+- Works with Product Managers to define features and priorities
+- Collaborates with Developers for implementation
+- Involved in reviews with stakeholders
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Manages automation, infrastructure, deployment, and system reliability for the project.
+
+### Responsibilities
+- Set up and maintain CI/CD pipelines
+- Monitor system health and respond to incidents
+- Implement automation for testing and deployment
+- Collaborate on security and performance optimizations
+
+### Interactions
+- Works with Developers and Project Managers for release coordination
+- Partners with QA/Testing roles for streamlined delivery
+
+---
+
+## Business Analyst
+
+### Role Summary
+Bridges the gap between business needs and technical solutions by gathering requirements and defining process improvements.
+
+### Responsibilities
+- Elicit requirements from stakeholders
+- Model processes and design improvements
+- Validate solutions against business objectives
+
+### Interactions
+- Liaises with Product Managers, Project Managers, and Stakeholders to capture and refine goals
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
